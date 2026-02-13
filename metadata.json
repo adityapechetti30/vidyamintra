@@ -1,0 +1,8 @@
+
+{
+  "name": "VidyāMitra – AI Career Mentor",
+  "description": "An end-to-end intelligent career mentorship platform featuring resume parsing, ATS scoring, personalized learning roadmaps, AI mock interviews, and skill-gap quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
